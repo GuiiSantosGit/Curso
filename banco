@@ -1,0 +1,4 @@
+fun main() {
+    println("teste")
+    println("foi")
+}
